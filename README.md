@@ -55,7 +55,3 @@ const result = await unfurl(
 //   date: new Date('2000-01-01')
 // }
 ```
-
-## License
-
-MIT
