@@ -26,6 +26,9 @@
     "type": "git",
     "url": "https://github.com/jill64/unfurl.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc && publint",
     "test": "vitest run",
