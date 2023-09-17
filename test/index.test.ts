@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import { unfurl } from '../dist'
+import { unfurl } from '../src/index'
 
 test('Without Optional', async () => {
   const result = await unfurl({
