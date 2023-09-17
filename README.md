@@ -1,5 +1,7 @@
 # unfurl
 
+[![codecov](https://codecov.io/github/jill64/unfurl/graph/badge.svg?token=SC3Z3UKGRZ)](https://codecov.io/github/jill64/unfurl)
+
 Concurrently wait for a Promise mapped to an object while preserving the type
 
 ## Install
