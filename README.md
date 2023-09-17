@@ -1,5 +1,6 @@
 # unfurl
 
+![github-actions-ci](https://github.com/jill64/unfurl/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/github/jill64/unfurl/graph/badge.svg?token=SC3Z3UKGRZ)](https://codecov.io/github/jill64/unfurl)
 
 Concurrently wait for a Promise mapped to an object while preserving the type
