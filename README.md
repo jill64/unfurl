@@ -1,7 +1,6 @@
 # unfurl
 
 [![npm](https://img.shields.io/npm/v/%40jill64%2Funfurl)](https://npmjs.com/package/@jill64/unfurl)
-[![github-actions-ci](https://github.com/jill64/unfurl/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/unfurl/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/github/jill64/unfurl/graph/badge.svg?token=SC3Z3UKGRZ)](https://codecov.io/github/jill64/unfurl)
 
 Concurrently wait for a Promise mapped to an object while preserving the type
