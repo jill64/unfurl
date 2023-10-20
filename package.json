@@ -1,6 +1,6 @@
 {
   "name": "@jill64/unfurl",
-  "version": "1.0.11",
+  "version": "1.1.0",
   "type": "module",
   "description": "Concurrently wait for a Promise mapped to an object while preserving the type",
   "main": "dist/index.js",
@@ -17,11 +17,6 @@
       "default": "./dist/index.js"
     }
   },
-  "keywords": [
-    "promise",
-    "concurrent",
-    "async"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/unfurl.git"
