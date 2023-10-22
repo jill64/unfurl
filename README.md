@@ -1,10 +1,12 @@
-# @jill64/unfurl
+<!----- BEGIN GHOST DOCS HEADER ----->
 
-[![npm](https://img.shields.io/npm/v/%40jill64%2Funfurl)](https://npmjs.com/package/@jill64/unfurl)
-[![npm](https://img.shields.io/npm/l/%40jill64%2Funfurl)](https://npmjs.com/package/@jill64/unfurl)
-[![codecov](https://codecov.io/github/jill64/unfurl/graph/badge.svg?token=SC3Z3UKGRZ)](https://codecov.io/github/jill64/unfurl)
+# unfurl
+
+[![npm-version](https://img.shields.io/npm/v/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-license](https://img.shields.io/npm/l/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![codecov-coverage](https://codecov.io/gh/jill64/unfurl/graph/badge.svg)](https://codecov.io/gh/jill64/unfurl)
 
 Concurrently wait for a Promise mapped to an object while preserving the type
+
+<!----- END GHOST DOCS HEADER ----->
 
 ## Installation
 
