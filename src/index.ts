@@ -4,7 +4,7 @@ export const unfurl = async <
   data: T,
   ...optional: unknown[]
 ): Promise<{
-  [P in keyof T]: T[P] extends Promise<infer U> ? U : T[P]
+  [P in keyof T]: Awaited<T[P]>
 }> => {
   const [result] = await Promise.all([
     Promise.all(
