@@ -24,6 +24,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "promise",
+    "await",
+    "concurrently",
+    "fool-proof"
+  ],
   "scripts": {
     "build": "tsc && npx publint",
     "test": "vitest run --coverage",
