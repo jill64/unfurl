@@ -14,12 +14,6 @@ npm i @jill64/unfurl
 
 <!----- END GHOST DOCS HEADER ----->
 
-## Installation
-
-```sh
-npm i @jill64/unfurl
-```
-
 ## Usage
 
 When passed an object containing promises, it will wait until all promises are resolved, keeping the keys and values.
