@@ -2,17 +2,17 @@
 
 # unfurl
 
-[![npm-version](https://img.shields.io/npm/v/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-license](https://img.shields.io/npm/l/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![ci.yml](https://github.com/jill64/unfurl/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/unfurl/actions/workflows/ci.yml)
+[![npm-version](https://img.shields.io/npm/v/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-license](https://img.shields.io/npm/l/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![ci.yml](https://github.com/jill64/unfurl/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/unfurl/actions/workflows/ci.yml) [![codecov-coverage](https://codecov.io/gh/jill64/unfurl/graph/badge.svg)](https://codecov.io/gh/jill64/unfurl)
 
 Concurrently wait for a Promise mapped to an object while preserving the type
 
-<!----- END GHOST DOCS HEADER ----->
-
-## Installation
+## Install
 
 ```sh
 npm i @jill64/unfurl
 ```
+
+<!----- END GHOST DOCS HEADER ----->
 
 ## Usage
 
