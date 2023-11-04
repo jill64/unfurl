@@ -10,7 +10,8 @@
   "homepage": "https://github.com/jill64/unfurl#readme",
   "files": [
     "dist",
-    "!*.test.*"
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "exports": {
     ".": {
@@ -27,9 +28,7 @@
   },
   "keywords": [
     "promise",
-    "await",
-    "concurrently",
-    "fool-proof"
+    "utility"
   ],
   "scripts": {
     "build": "tsc && npx publint",
