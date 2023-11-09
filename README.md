@@ -61,3 +61,41 @@ const result = await unfurl(
 //   date: new Date('2000-01-01')
 // }
 ```
+
+## unfurlSettled
+
+The settled version uses `Promise.allSettled` internally and waits until all Promises have completed. Also, the return value type will be the value wrapped in `PromiseSettledResult`.
+
+```js
+import { unfurlSettled } from '@jill64/unfurl'
+
+const result = await unfurlSettled({
+  number: Promise.resolve(1),
+  string: Promise.resolve('Test'),
+  boolean: true,
+  object: Promise.resolve({
+    key: 'value'
+  })
+})
+// Return Value
+// {
+//   number: {
+//     status: 'fulfilled',
+//     value: 1
+//   },
+//   string: {
+//     status: 'fulfilled',
+//     value: 'Test'
+//   },
+//   boolean: {
+//     status: 'fulfilled',
+//     value: true
+//   },
+//   object: {
+//     status: 'fulfilled',
+//     value: {
+//       key: 'value'
+//     }
+//   }
+// }
+```
