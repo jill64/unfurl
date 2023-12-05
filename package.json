@@ -1,6 +1,6 @@
 {
   "name": "@jill64/unfurl",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "type": "module",
   "description": "💠 Concurrently wait for a Promise mapped to an object while preserving the type",
   "main": "dist/index.js",
@@ -10,8 +10,6 @@
   "homepage": "https://github.com/jill64/unfurl#readme",
   "files": [
     "dist",
-    "!*.test.*",
-    "!*.spec.*",
     "!**/*.test.*",
     "!**/*.spec.*"
   ],
