@@ -35,10 +35,10 @@
   ],
   "scripts": {
     "build": "tsc && npx publint",
-    "test": "vitest",
     "prepack": "npm run build",
     "lint": "npx eslint . && npx depcheck",
-    "format": "npx prettier -w ."
+    "format": "npx prettier -w .",
+    "test": "vitest"
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {

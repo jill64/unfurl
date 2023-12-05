@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import { unfurlSettled } from './unfurlSettled.js'
+import { unfurlSettled } from '../src/unfurlSettled.js'
 
 test('Without Optional', async () => {
   const result = await unfurlSettled({
