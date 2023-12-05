@@ -9,7 +9,9 @@
   "bugs": "https://github.com/jill64/unfurl/issues",
   "homepage": "https://github.com/jill64/unfurl#readme",
   "files": [
-    "dist"
+    "dist",
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "exports": {
     ".": {
@@ -25,6 +27,7 @@
     "access": "public"
   },
   "keywords": [
+    "concurrency",
     "promise",
     "utility"
   ],
