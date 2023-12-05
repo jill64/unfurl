@@ -10,8 +10,6 @@
   "homepage": "https://github.com/jill64/unfurl#readme",
   "files": [
     "dist",
-    "!*.test.*",
-    "!*.spec.*",
     "!**/*.test.*",
     "!**/*.spec.*"
   ],
