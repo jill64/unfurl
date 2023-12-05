@@ -6,13 +6,13 @@
 
 💠 Concurrently wait for a Promise mapped to an object while preserving the type
 
+<!----- END GHOST DOCS HEADER ----->
+
 ## Install
 
 ```sh
 npm i @jill64/unfurl
 ```
-
-<!----- END GHOST DOCS HEADER ----->
 
 ## Usage
 
