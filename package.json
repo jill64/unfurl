@@ -5,7 +5,12 @@
   "description": "💠 Concurrently wait for a Promise mapped to an object while preserving the type",
   "main": "dist/index.js",
   "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "author": {
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
   "bugs": "https://github.com/jill64/unfurl/issues",
   "homepage": "https://github.com/jill64/unfurl#readme",
   "files": [
@@ -21,7 +26,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/unfurl.git"
+    "url": "https://github.com/jill64/unfurl.git",
+    "image": "https://opengraph.githubassets.com/6db3d381ad2db00be92d551042b643c43ec7f6b5b2d44418fd49aedc56bdc994/jill64/unfurl"
   },
   "publishConfig": {
     "access": "public"
@@ -40,7 +46,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.0.1",
+    "@jill64/eslint-config-ts": "1.0.2",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.3.3",
     "vitest": "1.0.4"
