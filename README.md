@@ -2,7 +2,7 @@
 
 # unfurl
 
-[![npm-version](https://img.shields.io/npm/v/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-license](https://img.shields.io/npm/l/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/unfurl)](https://npmjs.com/package/@jill64/unfurl) [![ci.yml](https://github.com/jill64/unfurl/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/unfurl/actions/workflows/ci.yml) [![codecov-coverage](https://codecov.io/gh/jill64/unfurl/graph/badge.svg)](https://codecov.io/gh/jill64/unfurl)
+<!----- BEGIN GHOST DOCS BADGES -----><a href="https://npmjs.com/package/@jill64/unfurl"><img src="https://img.shields.io/npm/v/@jill64/unfurl" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/unfurl"><img src="https://img.shields.io/npm/l/@jill64/unfurl" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/unfurl"><img src="https://img.shields.io/npm/dm/@jill64/unfurl" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/unfurl"><img src="https://img.shields.io/bundlephobia/min/@jill64/unfurl" alt="npm-min-size" /></a> <a href="https://github.com/jill64/unfurl/actions/workflows/ci.yml"><img src="https://github.com/jill64/unfurl/actions/workflows/ci.yml/badge.svg" alt="ci.yml" /></a><!----- END GHOST DOCS BADGES ----->
 
 💠 Concurrently wait for a Promise mapped to an object while preserving the type
 
