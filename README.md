@@ -99,3 +99,11 @@ const result = await unfurlSettled({
 //   }
 // }
 ```
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
