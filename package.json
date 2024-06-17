@@ -27,7 +27,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/unfurl.git",
-    "image": "https://opengraph.githubassets.com/076115b406af631105cc1710baf17fe8a433a75a9820eafec56f5bbc669ebc3d/jill64/unfurl"
+    "image": "https://opengraph.githubassets.com/e086dff836695cfd640aae23ff70badde87c1a8ccff3202183096258beacc4bb/jill64/unfurl"
   },
   "publishConfig": {
     "access": "public"
