@@ -1,4 +1,4 @@
-import { expect, test } from 'vitest'
+import { expect, test } from 'bun:test'
 import { unfurlSettled } from '../src/unfurlSettled.js'
 
 test('Without Optional', async () => {
