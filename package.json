@@ -27,7 +27,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/unfurl.git",
-    "image": "https://opengraph.githubassets.com/2f35c79133f76116744dcee080afe2a6761a21160d8226d1f4ac68addb26b035/jill64/unfurl"
+    "image": "https://opengraph.githubassets.com/83a29d0f933d86fe915020daf11828c6951ca78bfda7efbb2de7e4e14733dbff/jill64/unfurl"
   },
   "publishConfig": {
     "access": "public"
@@ -48,7 +48,7 @@
   "devDependencies": {
     "@jill64/eslint-config-ts": "2.0.18",
     "@jill64/prettier-config": "1.0.0",
-    "eslint": "9.22.0",
+    "eslint": "9.23.0",
     "@types/bun": "1.2.5",
     "typescript": "5.8.2"
   }
