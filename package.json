@@ -48,7 +48,7 @@
   "devDependencies": {
     "@jill64/eslint-config-ts": "2.0.22",
     "@jill64/prettier-config": "1.0.0",
-    "eslint": "9.23.0",
+    "eslint": "9.24.0",
     "@types/bun": "1.2.8",
     "typescript": "5.8.3"
   }
