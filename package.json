@@ -46,7 +46,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "2.0.32",
+    "@jill64/eslint-config-ts": "2.0.33",
     "@jill64/prettier-config": "1.0.0",
     "eslint": "9.23.0",
     "@types/bun": "1.2.12",
